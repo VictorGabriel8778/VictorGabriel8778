@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, C++, HTML, CSS e JavaScript.
+  🐔 Linguagens: Python, C++, HTML, CSS e JavaScript.
 </p>
 
 <p align="left">
