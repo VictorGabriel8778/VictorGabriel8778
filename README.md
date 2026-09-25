@@ -1,8 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou Victor, um jovem programador de 18 anos apaixonado por Back-End e Desenvolvimento Web.
-  Estou sempre buscando aprender novas habilidades e contribuir para projetos que façam a diferença. 🚀
+  👋 Olá! Sou Victor, desenvolvedor em formação e estudante de ADS.
+
+  💻 Trabalho principalmente com Python, automação e desenvolvimento Web, criando soluções para automatizar processos e resolver problemas reais.
+
+  🚀 Este perfil reúne meus projetos, estudos e experimentos em desenvolvimento de software.
+
+  🌱 Sempre construindo, aprendendo e evoluindo.
 </p>
 
 <p align="left">
